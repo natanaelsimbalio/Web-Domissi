@@ -1,0 +1,9 @@
+# Fotos originales sin comprimir (respaldo local, no se publican)
+assets/img/raw/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Backup local sin identificar, no se publica
+WebDomissi.rar
